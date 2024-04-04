@@ -17,4 +17,5 @@ You'd love to see this : *https://bootlin.com/doc/training/linux-kernel/linux-ke
                                                        *https://android.googlesource.com/kernel/msm/+/android-5.1.0_r0.6/Documentation/networking/can.txt
                                                        *https://www.opensourceforu.com/2019/03/getting-started-with-can-networking-in-linux/
                                                        *https://www.digi.com/resources/documentation/digidocs/embedded/dey/3.2/cc6/bsp_r_can_cc6cc6qp
+                                                       *https://www.can-cia.org/fileadmin/resources/documents/proceedings/2012_kleine-budde.pdf
 
